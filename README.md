@@ -108,7 +108,7 @@ My work emphasizes **clean architecture, RESTful design, and modern development 
 ## 📫 Professional Contact
 
 - 📧 Email: yash15778753x@email.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💼 LinkedIn: https://linkedin.com/yashh-tech 
 - 💻 GitHub: https://github.com/yashhtech 
 
 ---
