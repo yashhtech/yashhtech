@@ -64,7 +64,7 @@ My work emphasizes **clean architecture, RESTful design, and modern development 
 - Role-based access control  
 - Session & token-based authentication  
 
-🔗 https://github.com/YOUR_GITHUB_USERNAME/auth-system
+🔗 https://github.com/yashhtech/auth-system
 
 ---
 
@@ -78,13 +78,13 @@ My work emphasizes **clean architecture, RESTful design, and modern development 
 
 ---
 
-### 🤖 AI Chat Application
-**Tech:** Python, JavaScript  
+### 🤖 AI LAW Guidance Application
+**Tech:** HTML, CSS, JavaScript  
 - Interactive chat interface  
 - Backend AI integration  
 - Modular and extensible design  
 
-🔗 https://github.com/YOUR_GITHUB_USERNAME/ai-chat-app
+🔗 https://github.com/yashhtech/AI-Law-guidance
 
 ---
 
