@@ -58,24 +58,6 @@ My work emphasizes **clean architecture, RESTful design, and modern development 
 
 ## 📁 Key Projects
 
-### 🔐 Authentication & User Management System
-**Tech:** Java, Spring Boot, REST API  
-- Secure login & registration flow  
-- Role-based access control  
-- Session & token-based authentication  
-
-🔗 https://github.com/yashhtech/auth-system
-
----
-
-### 📚 Library Management System
-**Tech:** Django, HTML, CSS, JavaScript  
-- Admin & user dashboards  
-- Book issue / return workflow  
-- Category-based data management  
-
-🔗 https://github.com/YOUR_GITHUB_USERNAME/library-management-system
-
 ---
 
 ### 🤖 AI LAW Guidance Application
@@ -92,7 +74,7 @@ My work emphasizes **clean architecture, RESTful design, and modern development 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashhtech&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhtech&layout=compact&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhtech&layout=compact&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
