@@ -51,7 +51,7 @@ My work emphasizes **clean architecture, RESTful design, and modern development 
 ## 🧰 Technology Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,js,react,html,css,mysql,firebase,git,github,aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,python,django,js,react,html,css,mysql,firebase,git,github,aws&theme=light" />
 </p>
 
 ---
