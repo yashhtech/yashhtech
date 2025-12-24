@@ -58,6 +58,14 @@ My work emphasizes **clean architecture, RESTful design, and modern development 
 
 ## 📁 Key Projects
 
+### 👨🏻‍⚕️ MEDICAL-CLINIC
+**Tech:** HTML, CSS, JavaScript,Django  
+- Interactive User interface  
+- Backend AI integration 
+- Modular and extensible design  
+
+🔗 https://github.com/yashhtech/Django-Medical-Static
+
 ---
 
 ### 🤖 AI LAW Guidance Application
