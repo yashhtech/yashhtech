@@ -64,7 +64,7 @@ My work emphasizes **clean architecture, RESTful design, and modern development 
 - Backend AI integration 
 - Modular and extensible design  
 
-🔗 https://github.com/yashhtech/Django-Medical-Static
+🔗 https://github.com/yashhtech/Django-Medical-Clinic
 
 ---
 
