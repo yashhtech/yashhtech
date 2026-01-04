@@ -81,8 +81,10 @@ My work emphasizes **clean architecture, RESTful design, and modern development 
 ## 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashhtech&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhtech&layout=compact&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[yashhtech](https://github.com/yashhtech
+)&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[yashhtech](https://github.com/yashhtech
+)&layout=compact&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
